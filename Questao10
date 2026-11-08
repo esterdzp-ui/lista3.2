@@ -1,9 +1,12 @@
-#Definição
+# EXERCÍCIO 10: Divisão de Itens
+# Enunciado: Você tem 15 poções para dividir igualmente entre 3 jogadores. Use o operador / para mostrar quantas poções cada um recebe
+
+# VARIÁVEIS
 pocoes = 15
 jogadores = 3
 
-# Processamento
-cada_um = pocoes / jogadores
+# PROCESSAMENTO
+por_jogador = pocoes / jogadores
 
-# Saida 
-print(f"Cada jogador recebe:{cada_um} poções")
+# SAÍDA
+print(f"Cada jogador recebe: {por_jogador} poções")
