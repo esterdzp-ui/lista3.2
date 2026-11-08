@@ -1,9 +1,2 @@
-# Entrada
-fase1 = int(input ("pontuação da fase 1: "))
-fase2 = int(input ("pontuação da fase 2: "))
-
-# processamento
-soma_total = fase1 + fase2
-
-# Saida
-print(f"Soma total da pontuação: {soma_total}")
+# EXERCÍCIO 8: Cálculo de Pontuação
+# Enunciado: Escreva um código que peça duas pontuações (fase 1 e fase 2) e mostre a soma total usando o operador +
